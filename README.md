@@ -1,3 +1,5 @@
+# snow_crash
+
 Introduction aux risques simples d'un mauvais réglage des permissions de fichiers et de codes vulnérables, à travers de petits exercices de recherche de failles de sécurité via un terminal.
 
 Le projet s'est effectué dans une VM minutieusement configurée par l'école, dans laquelle l'élève doit rechercher la faille avec son utilisateur actuel et récupérer le mot de passe du suivant. Un compte rendu est écrit dans le ```/resources/explanation.md``` de chaque niveau.
